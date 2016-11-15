@@ -1,0 +1,22 @@
+{
+  "name": "girl-slider",
+  "version": "1.0.0",
+  "description": "Play a series of beautiful girl on your desktop while doing your task",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "electron-packager": "electron-packager"
+  },
+  "repository": "https://github.com/codsay/girl-slider",
+  "keywords": [
+    "Node",
+    "Electron",
+    "girl",
+    "slider"
+  ],
+  "author": "codsay",
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "electron-packager": "^8.1.0"
+  }
+}

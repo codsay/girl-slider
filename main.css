@@ -1,0 +1,22 @@
+html,body {
+  height: 100%;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+#slide {
+  overflow: hidden;
+  height: 98%;
+  width: 100%;
+  z-index: -1;
+  -webkit-user-select: initial;
+  -webkit-app-region: drag;
+  padding-top: .1em;
+}
+
+.load-item {
+  display: none;
+}
